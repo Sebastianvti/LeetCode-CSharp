@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\LeetCodeSeb.exe
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\LeetCodeSeb.deps.json
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\LeetCodeSeb.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\LeetCodeSeb.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\LeetCodeSeb.pdb
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\refint\LeetCodeSeb.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.pdb
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\ref\LeetCodeSeb.dll

@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\Streneous.exe
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\Streneous.deps.json
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\Streneous.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\Streneous.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\bin\Debug\net10.0\Streneous.pdb
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\Streneous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\Streneous.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\Streneous.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\Streneous.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\Streneous.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\refint\Streneous.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\Streneous.pdb
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\Streneous.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\ref\Streneous.dll
