@@ -12,3 +12,4 @@ C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\refint\Leet
 C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.pdb
 C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.genruntimeconfig.cache
 C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\ref\LeetCodeSeb.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Streneous\obj\Debug\net10.0\LeetCodeSeb.sourcelink.json
